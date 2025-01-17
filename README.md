@@ -1,3 +1,5 @@
-# Coursera-IBM-exploratory-data-analysis-for-machine-learning-
+# Analysis of Weather Reports in Australia
 
-Final project of the course Exploratory-Data-Analysis-for-Machine-Learning *Honors Content* IBM Coursera
+This project serves as the culmination of the *Honors Content* module in the Exploratory Data Analysis for Machine Learning course, offered by IBM on Coursera.
+
+
