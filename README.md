@@ -6,6 +6,6 @@ This project presents a comprehensive analysis of weather patterns across Austra
 
 ## Features
 
-+**Data Analysis:** Performs exploratory data analysis (EDA) to identify trends, correlations, and anomalies in Australian weather data..
-+**Machine Learning Models:** Implements Linear Regression, Decision Tree, KNN, Logistic Regression, SVM models for predictive analytics.
-+**Interactive Visualizations:** Delivers clear, insightful visual representations of weather patterns, feature importance, and model predictions for intuitive understanding.
++ **Data Analysis:** Performs exploratory data analysis (EDA) to identify trends, correlations, and anomalies in Australian weather data..
++ **Machine Learning Models:** Implements Linear Regression, Decision Tree, KNN, Logistic Regression, SVM models for predictive analytics.
++ **Interactive Visualizations:** Delivers clear, insightful visual representations of weather patterns, feature importance, and model predictions for intuitive understanding.
